@@ -3,17 +3,18 @@
 **Data Scientist | FullStack Developer | Business Intelligence Specialist**  
 📍 Curitiba, Brazil (Open to Relocation)  
 
-
----
-## 📊 GitHub Stats & Activity
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelaMachado90&show_icons=true&theme=dracula&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMachado90&layout=compact&theme=dracula" />
+  <a href="https://linkedin.com/in/angela-nmachado" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:angela.machado02022@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 
-## 📈 Coding Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AngelaMachado90&theme=dracula&hide_border=true&area=true)
+---
+
 ## 👩‍💻 Professional Summary  
 Data-driven professional with extensive experience in **data analysis**, **business intelligence**, and **FullStack development**. Passionate about **process automation**, **strategic analytical solutions**, and **turning data into actionable insights**.  
 
