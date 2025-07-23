@@ -55,7 +55,18 @@ Data-driven professional with extensive experience in **data analysis**, **busin
 
 ---
 
-## 📌 Featured Projects  
+
+## 🌐 Portfólio & Projetos
+
+### 🚀 [Meu Portfólio GitHub Pages](https://angelamachado90.github.io/)
+**Site pessoal/portfólio** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+- Site profissional com projetos, habilidades e experiência.  
+- Design responsivo e seções interativas.  
+- Hospedado no GitHub Pages.  
+
+![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fangelamachado90.github.io)
+![GitHub last commit](https://img.shields.io/github/last-commit/AngelaMachado90/AngelaMachado90.github.io?color=blueviolet)
+![Repo Size](https://img.shields.io/github/repo-size/AngelaMachado90/AngelaMachado90.github.io)
 
 ### 🔍 [Brazil CNPJ Insights](https://github.com/AngelaMachado90/brazil-cnpj-insights)
 **Análise de dados de CNPJ brasileiros** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter)  
