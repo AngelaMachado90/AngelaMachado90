@@ -1,96 +1,80 @@
-# Angela Natali Machado
+# 👋 Olá, eu sou Angela Natali Machado
 
-**Data Scientist | FullStack Developer | Business Intelligence Specialist**  
-📍 Curitiba, Brazil (Open to Relocation)  
+**Junior Data Scientist | Desenvolvedora Web | Fundadora da KoddaHub Studio**
 
-<div align="center">
-  <a href="https://linkedin.com/in/angela-nmachado" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <a href="mailto:angela.machado02022@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-nmachado/)
+[![KoddaHub](https://img.shields.io/badge/KoddaHub-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://koddahub.com.br)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngelaNMachado)
 
 ---
 
-## 👩‍💻 Professional Summary  
-Data-driven professional with extensive experience in **data analysis**, **business intelligence**, and **FullStack development**. Passionate about **process automation**, **strategic analytical solutions**, and **turning data into actionable insights**.  
+## 🚀 Sobre mim
 
-**Key Skills:**  
-✔ Data Analysis & Visualization  
-✔ ETL Processes & Database Architecture  
-✔ Python | JavaScript | SQL  
-✔ Power BI | Pentaho  
-✔ Agile Methodologies | RPA  
+Sou apaixonada por tecnologia e dados, com mais de uma década de experiência unindo **análise de dados** e **desenvolvimento web**. Em 2025, fundei a **KoddaHub Studio** para entregar soluções digitais rápidas, modernas e acessíveis.
+
+🔹 **Data Science:** Python · SQL · ETL · Dashboards  
+🔹 **Desenvolvimento Web:** Sites institucionais · E-commerces · Sistemas personalizados  
+🔹 **Diferenciais:** Entrega em até 24h · Tecnologia leve (sem WordPress) · Chatbot incluso
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🏢 Minha Marca: KoddaHub Studio
 
-### Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+Na **[KoddaHub](https://koddahub.com.br)**, entregamos sites que realmente convertem:
 
-### Data Science & BI  
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pentaho](https://img.shields.io/badge/Pentaho-FF6D70?style=flat&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+✅ **Entrega relâmpago:** sites institucionais prontos em 24h  
+✅ **Tecnologia moderna** – nada de WordPress pesado  
+✅ **Chatbot com WhatsApp incluso** – atendimento 24/7  
+✅ **Hospedagem de alta performance** com SSL e backup
 
-### DevOps & Others  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+👉 **Conheça cases reais:** [koddahub.com.br](https://koddahub.com.br)
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelaMachado90&show_icons=true&theme=dracula&count_private=true" alt="Angela's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMachado90&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
+![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelaNMachado&show_icons=true&theme=radical)
 
----
-
-
-## 🌐 Portfólio & Projetos
-
-### 🚀 [Meu Portfólio GitHub Pages](https://angelamachado90.github.io/)
-**Site pessoal/portfólio** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-- Site profissional com projetos, habilidades e experiência.  
-- Design responsivo e seções interativas.  
-- Hospedado no GitHub Pages.  
-
-![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fangelamachado90.github.io)
-![GitHub last commit](https://img.shields.io/github/last-commit/AngelaMachado90/AngelaMachado90.github.io?color=blueviolet)
-![Repo Size](https://img.shields.io/github/repo-size/AngelaMachado90/AngelaMachado90.github.io)
-
-### 🔍 [Brazil CNPJ Insights](https://github.com/AngelaMachado90/brazil-cnpj-insights)
-**Análise de dados de CNPJ brasileiros** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter)  
-- Extração, transformação e análise de dados públicos de empresas brasileiras.  
-- Geração de insights sobre distribuição geográfica e setores econômicos.  
-- Visualizações interativas com Matplotlib/Seaborn.  
-
-![Repo Size](https://img.shields.io/github/repo-size/AngelaMachado90/brazil-cnpj-insights) 
-![Last Commit](https://img.shields.io/github/last-commit/AngelaMachado90/brazil-cnpj-insights)
-![Languages](https://img.shields.io/github/languages/top/AngelaMachado90/brazil-cnpj-insights)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaNMachado&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🎓 Education  
-- **Bachelor of Technology in Data Science** - UNINTER International University Center (2021-2023)  
-- **Associate Degree in Systems Analysis and Development** - FAEL College (2016-2019)  
+## 🛠️ Tecnologias & Ferramentas
 
-## 📜 Certifications  
-- Business Intelligence Certification  
-- Machine Learning Certification  
-- Scrum Fundamentals Certified  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AngelaMachado90&color=blueviolet" alt="Profile views" />
-</div>
+## 📌 Projetos em Destaque
+
+### [🔗 Site Institucional - Clínica Modelo](https://github.com/AngelaNMachado/landing-page-clinica)
+Landing page profissional para clínica médica, entregue em 24h.  
+**Tecnologias:** HTML5, CSS3, JavaScript, chatbot integrado.
+
+### [🔗 Dashboard de Vendas - E-commerce](https://github.com/AngelaNMachado/dashboard-vendas)
+Dashboard interativo para análise de vendas (ETL + visualização).  
+**Tecnologias:** Python, Pandas, Plotly.
+
+### [🔗 Loja Virtual - Semijoias](https://github.com/AngelaNMachado/ecommerce-semijoias)
+E-commerce completo com carrinho, pagamentos e painel administrativo.  
+**Tecnologias:** HTML5, CSS3, JavaScript, Stripe.
+
+> 📌 *Mais projetos no portfólio da [KoddaHub](https://koddahub.com.br)*
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 **LinkedIn:** [linkedin.com/in/angela-nmachado](https://linkedin.com/in/angela-nmachado)
+- 🌐 **Site da KoddaHub:** [koddahub.com.br](https://koddahub.com.br)
+- 📧 **E-mail:** angela@koddahub.com.br
+
+---
+
+⭐️ *Sempre aberta a novos desafios e parcerias!*
