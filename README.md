@@ -116,8 +116,4 @@ Repositórios relacionados a:
 - **LinkedIn:** [linkedin.com/in/angela-nmachado](https://www.linkedin.com/in/angela-nmachado)
 - **Site:** [koddahub.com.br](https://koddahub.com.br)
 
----
 
-## Contato
-- LinkedIn: https://www.linkedin.com/in/angela-nmachado  
-- SITE: https://koddahub.com.br
